@@ -1,0 +1,3 @@
+data_set/mnist_test.csv
+data_set/mnist_train.csv
+*.swp
